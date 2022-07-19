@@ -1,0 +1,478 @@
+# depslib dependency file v1.0
+1655698650 source:c:\users\pc\desktop\programacion utn 2022\programacion y laboratorio 1\trabajos codeblocks\powersoft - tpfinal labo 1\archi.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	"archi.h"
+	"clientes.h"
+	"Menu.h"
+	"consumos.h"
+	"centrarTitulos.h"
+
+1655697787 c:\users\pc\desktop\programacion utn 2022\programacion y laboratorio 1\trabajos codeblocks\powersoft - tpfinal labo 1\archi.h
+	"clientes.h"
+	"consumos.h"
+
+1655602047 c:\users\pc\desktop\programacion utn 2022\programacion y laboratorio 1\trabajos codeblocks\powersoft - tpfinal labo 1\clientes.h
+
+1655698648 c:\users\pc\desktop\programacion utn 2022\programacion y laboratorio 1\trabajos codeblocks\powersoft - tpfinal labo 1\consumos.h
+
+1655226669 c:\users\pc\desktop\programacion utn 2022\programacion y laboratorio 1\trabajos codeblocks\powersoft - tpfinal labo 1\menu.h
+
+1655667980 c:\users\pc\desktop\programacion utn 2022\programacion y laboratorio 1\trabajos codeblocks\powersoft - tpfinal labo 1\centrartitulos.h
+
+1655668112 source:c:\users\pc\desktop\programacion utn 2022\programacion y laboratorio 1\trabajos codeblocks\powersoft - tpfinal labo 1\centrartitulos.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"centrarTitulos.h"
+
+1655667446 source:c:\users\pc\desktop\programacion utn 2022\programacion y laboratorio 1\trabajos codeblocks\powersoft - tpfinal labo 1\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<string.h>
+	"Menu.h"
+	"clientes.h"
+	"centrarTitulos.h"
+
+1655697787 source:c:\users\pc\desktop\programacion utn 2022\programacion y laboratorio 1\trabajos codeblocks\powersoft - tpfinal labo 1\consumos.c
+	<stdio.h>
+	<stdlib.h>
+	"archi.h"
+	"clientes.h"
+	"consumos.h"
+
+1491400448 source:c:\users\pc\desktop\programacion utn 2022\programacion y laboratorio 1\trabajos codeblocks\powersoft - tpfinal labo 1\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1655659528 source:c:\users\pc\desktop\programacion utn 2022\programacion y laboratorio 1\trabajos codeblocks\powersoft - tpfinal labo 1\stempleados.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"stEmpleados.h"
+	"centrarTitulos.h"
+
+1655602485 c:\users\pc\desktop\programacion utn 2022\programacion y laboratorio 1\trabajos codeblocks\powersoft - tpfinal labo 1\stempleados.h
+
+1655753644 source:c:\users\pc\desktop\programacion utn 2022\programacion y laboratorio 1\trabajos codeblocks\powersoft - tpfinal labo 1\funcionesmenus.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<windows.h>
+	"funcionesMenus.h"
+	"centrarTitulos.h"
+	"Menu.h"
+	"stEmpleados.h"
+	"gotoxy.h"
+
+1655524345 c:\users\pc\desktop\programacion utn 2022\programacion y laboratorio 1\trabajos codeblocks\powersoft - tpfinal labo 1\funcionesmenus.h
+
+1491399894 c:\users\pc\desktop\programacion utn 2022\programacion y laboratorio 1\trabajos codeblocks\powersoft - tpfinal labo 1\gotoxy.h
+
+1655752383 source:c:\users\pc\desktop\programacion utn 2022\programacion y laboratorio 1\trabajos codeblocks\powersoft - tpfinal labo 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Menu.h"
+	"funcionesMenus.h"
+
+1655752383 source:c:\users\pc\desktop\programacion utn 2022\programacion y laboratorio 1\trabajos codeblocks\powersoft - tpfinal labo 1\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	"Menu.h"
+	"clientes.h"
+	"archi.h"
+	"centrarTitulos.h"
+
+1655698650 source:c:\users\acer\desktop\powersoft - tpfinal labo 1\archi.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	"archi.h"
+	"clientes.h"
+	"Menu.h"
+	"consumos.h"
+	"centrarTitulos.h"
+
+1655697787 c:\users\acer\desktop\powersoft - tpfinal labo 1\archi.h
+	"clientes.h"
+	"consumos.h"
+
+1655602047 c:\users\acer\desktop\powersoft - tpfinal labo 1\clientes.h
+
+1655698648 c:\users\acer\desktop\powersoft - tpfinal labo 1\consumos.h
+
+1655226669 c:\users\acer\desktop\powersoft - tpfinal labo 1\menu.h
+
+1655667980 c:\users\acer\desktop\powersoft - tpfinal labo 1\centrartitulos.h
+
+1655668112 source:c:\users\acer\desktop\powersoft - tpfinal labo 1\centrartitulos.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"centrarTitulos.h"
+
+1655667446 source:c:\users\acer\desktop\powersoft - tpfinal labo 1\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<string.h>
+	"Menu.h"
+	"clientes.h"
+	"centrarTitulos.h"
+
+1655697787 source:c:\users\acer\desktop\powersoft - tpfinal labo 1\consumos.c
+	<stdio.h>
+	<stdlib.h>
+	"archi.h"
+	"clientes.h"
+	"consumos.h"
+
+1655787140 source:c:\users\acer\desktop\powersoft - tpfinal labo 1\funcionesmenus.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<windows.h>
+	"funcionesMenus.h"
+	"centrarTitulos.h"
+	"Menu.h"
+	"stEmpleados.h"
+	"gotoxy.h"
+
+1655524345 c:\users\acer\desktop\powersoft - tpfinal labo 1\funcionesmenus.h
+
+1655787141 c:\users\acer\desktop\powersoft - tpfinal labo 1\stempleados.h
+
+1491399894 c:\users\acer\desktop\powersoft - tpfinal labo 1\gotoxy.h
+
+1491400448 source:c:\users\acer\desktop\powersoft - tpfinal labo 1\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1655752383 source:c:\users\acer\desktop\powersoft - tpfinal labo 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Menu.h"
+	"funcionesMenus.h"
+
+1655752383 source:c:\users\acer\desktop\powersoft - tpfinal labo 1\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	"Menu.h"
+	"clientes.h"
+	"archi.h"
+	"centrarTitulos.h"
+
+1655786551 source:c:\users\acer\desktop\powersoft - tpfinal labo 1\stempleados.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"stEmpleados.h"
+	"centrarTitulos.h"
+
+1655698650 source:c:\users\pc\desktop\proyectos comprimidos\powersoft - tpfinal\archi.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	"archi.h"
+	"clientes.h"
+	"Menu.h"
+	"consumos.h"
+	"centrarTitulos.h"
+
+1655697787 c:\users\pc\desktop\proyectos comprimidos\powersoft - tpfinal\archi.h
+	"clientes.h"
+	"consumos.h"
+
+1655602047 c:\users\pc\desktop\proyectos comprimidos\powersoft - tpfinal\clientes.h
+
+1655698648 c:\users\pc\desktop\proyectos comprimidos\powersoft - tpfinal\consumos.h
+
+1655226669 c:\users\pc\desktop\proyectos comprimidos\powersoft - tpfinal\menu.h
+
+1655667980 c:\users\pc\desktop\proyectos comprimidos\powersoft - tpfinal\centrartitulos.h
+
+1655668112 source:c:\users\pc\desktop\proyectos comprimidos\powersoft - tpfinal\centrartitulos.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"centrarTitulos.h"
+
+1655667446 source:c:\users\pc\desktop\proyectos comprimidos\powersoft - tpfinal\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<string.h>
+	"Menu.h"
+	"clientes.h"
+	"centrarTitulos.h"
+
+1655697787 source:c:\users\pc\desktop\proyectos comprimidos\powersoft - tpfinal\consumos.c
+	<stdio.h>
+	<stdlib.h>
+	"archi.h"
+	"clientes.h"
+	"consumos.h"
+
+1491400448 source:c:\users\pc\desktop\proyectos comprimidos\powersoft - tpfinal\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1655752383 source:c:\users\pc\desktop\proyectos comprimidos\powersoft - tpfinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Menu.h"
+	"funcionesMenus.h"
+
+1655524345 c:\users\pc\desktop\proyectos comprimidos\powersoft - tpfinal\funcionesmenus.h
+
+1655752383 source:c:\users\pc\desktop\proyectos comprimidos\powersoft - tpfinal\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	"Menu.h"
+	"clientes.h"
+	"archi.h"
+	"centrarTitulos.h"
+
+1655810856 source:c:\users\pc\desktop\proyectos comprimidos\powersoft - tpfinal\funcionesmenus.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<windows.h>
+	"funcionesMenus.h"
+	"centrarTitulos.h"
+	"Menu.h"
+	"stEmpleados.h"
+	"gotoxy.h"
+
+1655787141 c:\users\pc\desktop\proyectos comprimidos\powersoft - tpfinal\stempleados.h
+
+1491399894 c:\users\pc\desktop\proyectos comprimidos\powersoft - tpfinal\gotoxy.h
+
+1655786551 source:c:\users\pc\desktop\proyectos comprimidos\powersoft - tpfinal\stempleados.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"stEmpleados.h"
+	"centrarTitulos.h"
+
+1656087650 source:c:\users\pc\desktop\proyectos comprimidos\powersoft - tpfinal labo 1 - 1.7z\archi.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	"archi.h"
+	"clientes.h"
+	"Menu.h"
+	"consumos.h"
+	"centrarTitulos.h"
+
+1655697787 c:\users\pc\desktop\proyectos comprimidos\powersoft - tpfinal labo 1 - 1.7z\archi.h
+	"clientes.h"
+	"consumos.h"
+
+1655837282 c:\users\pc\desktop\proyectos comprimidos\powersoft - tpfinal labo 1 - 1.7z\clientes.h
+
+1655844703 c:\users\pc\desktop\proyectos comprimidos\powersoft - tpfinal labo 1 - 1.7z\consumos.h
+
+1655226669 c:\users\pc\desktop\proyectos comprimidos\powersoft - tpfinal labo 1 - 1.7z\menu.h
+
+1655667980 c:\users\pc\desktop\proyectos comprimidos\powersoft - tpfinal labo 1 - 1.7z\centrartitulos.h
+
+1655668112 source:c:\users\pc\desktop\proyectos comprimidos\powersoft - tpfinal labo 1 - 1.7z\centrartitulos.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"centrarTitulos.h"
+
+1655838672 source:c:\users\pc\desktop\proyectos comprimidos\powersoft - tpfinal labo 1 - 1.7z\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<string.h>
+	"Menu.h"
+	"clientes.h"
+	"centrarTitulos.h"
+
+1656034688 source:c:\users\pc\desktop\proyectos comprimidos\powersoft - tpfinal labo 1 - 1.7z\consumos.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"archi.h"
+	"clientes.h"
+	"consumos.h"
+
+1655848313 source:c:\users\pc\desktop\proyectos comprimidos\powersoft - tpfinal labo 1 - 1.7z\funcionesmenus.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<windows.h>
+	"funcionesMenus.h"
+	"centrarTitulos.h"
+	"Menu.h"
+	"stEmpleados.h"
+	"gotoxy.h"
+
+1655524345 c:\users\pc\desktop\proyectos comprimidos\powersoft - tpfinal labo 1 - 1.7z\funcionesmenus.h
+
+1655787141 c:\users\pc\desktop\proyectos comprimidos\powersoft - tpfinal labo 1 - 1.7z\stempleados.h
+
+1491399894 c:\users\pc\desktop\proyectos comprimidos\powersoft - tpfinal labo 1 - 1.7z\gotoxy.h
+
+1491400448 source:c:\users\pc\desktop\proyectos comprimidos\powersoft - tpfinal labo 1 - 1.7z\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1655848324 source:c:\users\pc\desktop\proyectos comprimidos\powersoft - tpfinal labo 1 - 1.7z\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Menu.h"
+	"funcionesMenus.h"
+
+1656034234 source:c:\users\pc\desktop\proyectos comprimidos\powersoft - tpfinal labo 1 - 1.7z\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	"Menu.h"
+	"clientes.h"
+	"archi.h"
+	"centrarTitulos.h"
+
+1655811207 source:c:\users\pc\desktop\proyectos comprimidos\powersoft - tpfinal labo 1 - 1.7z\stempleados.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"stEmpleados.h"
+	"centrarTitulos.h"
+
+1656087650 source:c:\users\pc\desktop\programacion utn 2022\programacion y laboratorio 1\trabajos codeblocks\tp final versiones\powersoft - tpfinal labo 1 - 1.7z\archi.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	"archi.h"
+	"clientes.h"
+	"Menu.h"
+	"consumos.h"
+	"centrarTitulos.h"
+
+1655697787 c:\users\pc\desktop\programacion utn 2022\programacion y laboratorio 1\trabajos codeblocks\tp final versiones\powersoft - tpfinal labo 1 - 1.7z\archi.h
+	"clientes.h"
+	"consumos.h"
+
+1655837282 c:\users\pc\desktop\programacion utn 2022\programacion y laboratorio 1\trabajos codeblocks\tp final versiones\powersoft - tpfinal labo 1 - 1.7z\clientes.h
+
+1655844703 c:\users\pc\desktop\programacion utn 2022\programacion y laboratorio 1\trabajos codeblocks\tp final versiones\powersoft - tpfinal labo 1 - 1.7z\consumos.h
+
+1655226669 c:\users\pc\desktop\programacion utn 2022\programacion y laboratorio 1\trabajos codeblocks\tp final versiones\powersoft - tpfinal labo 1 - 1.7z\menu.h
+
+1655667980 c:\users\pc\desktop\programacion utn 2022\programacion y laboratorio 1\trabajos codeblocks\tp final versiones\powersoft - tpfinal labo 1 - 1.7z\centrartitulos.h
+
+1655668112 source:c:\users\pc\desktop\programacion utn 2022\programacion y laboratorio 1\trabajos codeblocks\tp final versiones\powersoft - tpfinal labo 1 - 1.7z\centrartitulos.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"centrarTitulos.h"
+
+1655838672 source:c:\users\pc\desktop\programacion utn 2022\programacion y laboratorio 1\trabajos codeblocks\tp final versiones\powersoft - tpfinal labo 1 - 1.7z\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<string.h>
+	"Menu.h"
+	"clientes.h"
+	"centrarTitulos.h"
+
+1656034688 source:c:\users\pc\desktop\programacion utn 2022\programacion y laboratorio 1\trabajos codeblocks\tp final versiones\powersoft - tpfinal labo 1 - 1.7z\consumos.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"archi.h"
+	"clientes.h"
+	"consumos.h"
+
+1655848313 source:c:\users\pc\desktop\programacion utn 2022\programacion y laboratorio 1\trabajos codeblocks\tp final versiones\powersoft - tpfinal labo 1 - 1.7z\funcionesmenus.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<windows.h>
+	"funcionesMenus.h"
+	"centrarTitulos.h"
+	"Menu.h"
+	"stEmpleados.h"
+	"gotoxy.h"
+
+1655524345 c:\users\pc\desktop\programacion utn 2022\programacion y laboratorio 1\trabajos codeblocks\tp final versiones\powersoft - tpfinal labo 1 - 1.7z\funcionesmenus.h
+
+1655787141 c:\users\pc\desktop\programacion utn 2022\programacion y laboratorio 1\trabajos codeblocks\tp final versiones\powersoft - tpfinal labo 1 - 1.7z\stempleados.h
+
+1491399894 c:\users\pc\desktop\programacion utn 2022\programacion y laboratorio 1\trabajos codeblocks\tp final versiones\powersoft - tpfinal labo 1 - 1.7z\gotoxy.h
+
+1491400448 source:c:\users\pc\desktop\programacion utn 2022\programacion y laboratorio 1\trabajos codeblocks\tp final versiones\powersoft - tpfinal labo 1 - 1.7z\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1655848324 source:c:\users\pc\desktop\programacion utn 2022\programacion y laboratorio 1\trabajos codeblocks\tp final versiones\powersoft - tpfinal labo 1 - 1.7z\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Menu.h"
+	"funcionesMenus.h"
+
+1656781021 source:c:\users\pc\desktop\programacion utn 2022\programacion y laboratorio 1\trabajos codeblocks\tp final versiones\powersoft - tpfinal labo 1 - 1.7z\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	"Menu.h"
+	"clientes.h"
+	"archi.h"
+	"centrarTitulos.h"
+
+1655811207 source:c:\users\pc\desktop\programacion utn 2022\programacion y laboratorio 1\trabajos codeblocks\tp final versiones\powersoft - tpfinal labo 1 - 1.7z\stempleados.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"stEmpleados.h"
+	"centrarTitulos.h"
+
